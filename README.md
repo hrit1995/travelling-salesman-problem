@@ -9,4 +9,4 @@ project2:
 Solved TSP using Greedy Approximation (Minumum Spanning Trees)
 
 project3:
-Solved TSP using Genetic Algorithms (Nearest-neighbor algorithm, Greedy-edge algorithm and Union-find)
+Solved TSP using Local Search Algorithms (Nearest-neighbor algorithm, Greedy-edge algorithm and Union-find)
